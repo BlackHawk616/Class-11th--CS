@@ -12,7 +12,7 @@ Welcome to the Class 11 Computer Science Repository. This repository contains Py
 
 This section includes various Python programs covered in the Class 11 syllabus. Each program is designed to help you understand different concepts and improve your coding skills.
 
-The programs are in the [Programs](#programs) directory.
+The programs are in the [Programs](/Programs) directory.
 
 ## Notes
 
